@@ -6,4 +6,5 @@ metadata:
   namespace: facebooc
 spec:
   path: ./flux/staging
+  validation: client
 
