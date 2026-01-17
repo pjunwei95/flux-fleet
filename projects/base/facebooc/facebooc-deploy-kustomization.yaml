@@ -13,5 +13,4 @@ spec:
   sourceRef:
     kind: GitRepository
     name: facebooc-deploy
-  validation: client
 
